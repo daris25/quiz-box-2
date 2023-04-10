@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.092ca3a6.css",
+    "main.js": "/static/js/main.81e4b39d.js",
+    "static/js/787.59f43fa6.chunk.js": "/static/js/787.59f43fa6.chunk.js",
+    "static/media/banner-tebak.png": "/static/media/banner-tebak.b53399ab58c899bd6a7a.png",
+    "static/media/jokowi.jpg": "/static/media/jokowi.55083de995f6d7b8e299.jpg",
+    "index.html": "/index.html",
+    "main.092ca3a6.css.map": "/static/css/main.092ca3a6.css.map",
+    "main.81e4b39d.js.map": "/static/js/main.81e4b39d.js.map",
+    "787.59f43fa6.chunk.js.map": "/static/js/787.59f43fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.092ca3a6.css",
+    "static/js/main.81e4b39d.js"
+  ]
+}
